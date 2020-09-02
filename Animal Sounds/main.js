@@ -145,6 +145,7 @@ function play_all_sounds()
 	playsound("Duck");
 	playsound("Tiger");
 	playsound("Sheep");
+	playsound("Crow");
 	playsound("");
 	playsound("UNKNOWN SOUND");
 }
